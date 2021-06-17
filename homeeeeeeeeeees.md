@@ -31,6 +31,5 @@ page_sections:
   block: cta-bar
   content: ''
   email_recipient: ''
-published: false
 
 ---
